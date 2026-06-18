@@ -1,4 +1,4 @@
-# Boddu Venkata Nagabharana
+# Boddu Venkata Nagabharan
 **Data Analyst | Applied Data Science Professional**
 
 A results-driven Data Analytics professional with a strong academic foundation (M.Sc. in Applied Data Science, CGPA: 9.2/10) and hands-on experience in building AI-powered systems, machine learning models, and enterprise BI solutions. Experienced in transforming raw data into high-impact business insights, optimizing operational processes, and designing automated KPI reporting systems.
