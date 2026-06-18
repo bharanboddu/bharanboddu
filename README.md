@@ -8,9 +8,9 @@ A results-driven Data Analytics professional with a strong academic foundation (
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/bharanboddu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/bharanboddu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:bharanboddu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/bharanboddu/Portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/bharanboddu/Portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
@@ -154,8 +154,12 @@ A fully responsive personal landing page highlighting skills, certifications, an
 
 <h3 align="center">🤝 Connect With Me</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/bharanboddu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/bharanboddu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:bharanboddu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
+  📧 Direct Email: <a href="mailto:bharanboddu@gmail.com"><b>bharanboddu@gmail.com</b></a>
 </p>
 
 <p align="center">
