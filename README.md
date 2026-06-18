@@ -160,9 +160,5 @@ A fully responsive personal landing page highlighting skills, certifications, an
 </p>
 
 <p align="center">
-  📧 Direct Email: <a href="mailto:bharanboddu@gmail.com"><b>bharanboddu@gmail.com</b></a>
-</p>
-
-<p align="center">
   <i>Thanks for visiting! Let's build something impactful together.</i>
 </p>
