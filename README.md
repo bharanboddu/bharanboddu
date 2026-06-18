@@ -123,6 +123,7 @@ A fully responsive personal landing page highlighting skills, certifications, an
 ### Core Implementation
 * Built using semantic **HTML5**, **CSS3**, and **JavaScript** for high accessibility and speed performance.
 * **Repository:** [Portfolio](https://github.com/bharanboddu/Portfolio)
+* **Live Website:** [bharanboddu.github.io/Portfolio/](https://bharanboddu.github.io/Portfolio/)
 </details>
 
 ---
