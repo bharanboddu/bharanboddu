@@ -66,6 +66,21 @@ A results-driven Data Analytics professional with a strong academic foundation (
 *Click on a project header to expand and view detailed implementation, tech stack, and results.*
 
 <details>
+<summary><b>📈 MarketPulse AI (Intelligent Financial Dashboard & Trading Intelligence)</b></summary>
+
+### Project Overview
+Developed a premium real-time financial intelligence dashboard and prediction platform using machine learning, natural language processing, and AI integrations.
+
+### Core Implementation
+* **ML Prediction Engine:** Built a time-series regression pipeline using **Random Forest** and **XGBoost** to generate 7-day asset price forecasts with confidence intervals.
+* **Interactive Visualization:** Engineered a live market dashboard with responsive candlestick charts (zoom, pan, hover) using **Plotly** and **Jinja2**.
+* **AI Chat Assistant:** Integrated **Google Gemini** & **OpenAI** APIs to power an interactive chat assistant capable of answering ticker-specific questions and analyzing SEC filings.
+* **Sentiment Analysis:** Utilized NLP models to score market sentiment from live financial headlines.
+* **Alert System:** Programmed a database-backed smart alert system utilizing **SQLAlchemy** to dispatch automated email updates.
+* **Repository:** [MarketPulse-AI](https://github.com/bharanboddu/MarketPulse-AI)
+</details>
+
+<details>
 <summary><b>🚨 Accident Detection & Real-time Alert System (AI & Computer Vision)</b></summary>
 
 ### Project Overview
