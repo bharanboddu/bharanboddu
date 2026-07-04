@@ -158,12 +158,16 @@ A fully responsive personal landing page highlighting skills, certifications, an
 ## 📊 GitHub Performance Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bharanboddu&show_icons=true&theme=nord&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharanboddu&layout=compact&theme=nord" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bharanboddu&theme=nord&column=7" alt="GitHub Trophies" width="97%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharanboddu&theme=nord" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bharanboddu&show_icons=true&theme=nord&count_private=true&v=20260704" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharanboddu&layout=compact&theme=nord&v=20260704" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharanboddu&theme=nord&v=20260704" alt="GitHub Streak" width="97%" />
 </p>
 
 ---
